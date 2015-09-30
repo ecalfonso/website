@@ -1,4 +1,4 @@
-.nav_bar {
+.menu {
 	color: #000000;
 	font-size: 11px;
 	font-weight: bold;
@@ -7,7 +7,7 @@
 	background-color: #f7f7f7;
 }
 
-.nav_bar li {
+.menu li {
 	color: #000000;
 	display: inline;
 }
